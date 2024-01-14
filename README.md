@@ -1,6 +1,6 @@
-# Script to Generate README File
+# Generate README with OpenAI
 
-This script generates a comprehensive README file by analyzing a given code. The README includes an overview section, installation instructions, usage instructions, additional notes or warnings, and a brief section on how to contribute to the script.
+This script uses OpenAI to generate a comprehensive README file by analyzing a given code. The README includes an overview section, installation instructions, usage instructions, additional notes or warnings, and a brief section on how to contribute to the script.
 
 ## Installation
 
